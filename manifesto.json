@@ -1,0 +1,2121 @@
+{
+ "atualizado_em": "2026-11-14T18:00Z",
+ "dados_ate": "2026-10-31T23:00Z",
+ "fonte": "Binance, dados publicos de mercado (velas de 1h)",
+ "selecao_automatica": {
+  "status": "ok",
+  "candidatos": 696,
+  "selecionados": 256,
+  "falhas": 0
+ },
+ "pares_manuais": [
+  "AAVEUSDT",
+  "ADAUSDT",
+  "ALGOUSDT",
+  "APTUSDT",
+  "ARBUSDT",
+  "ATOMUSDT",
+  "AVAXUSDT",
+  "AXSUSDT",
+  "BCHUSDT",
+  "BNBUSDT",
+  "BTCUSDT",
+  "CHZUSDT",
+  "DASHUSDT",
+  "DOGEUSDT",
+  "DOTUSDT",
+  "EOSUSDT",
+  "ETCUSDT",
+  "ETHUSDT",
+  "FILUSDT",
+  "FTMUSDT",
+  "FTTUSDT",
+  "GALAUSDT",
+  "HBARUSDT",
+  "ICPUSDT",
+  "INJUSDT",
+  "IOTAUSDT",
+  "LINKUSDT",
+  "LTCUSDT",
+  "LUNAUSDT",
+  "MANAUSDT",
+  "MATICUSDT",
+  "NEARUSDT",
+  "NEOUSDT",
+  "OPUSDT",
+  "PEPEUSDT",
+  "POLUSDT",
+  "SANDUSDT",
+  "SHIBUSDT",
+  "SOLUSDT",
+  "SUIUSDT",
+  "THETAUSDT",
+  "TRXUSDT",
+  "UNIUSDT",
+  "VETUSDT",
+  "WAVESUSDT",
+  "XLMUSDT",
+  "XMRUSDT",
+  "XRPUSDT",
+  "XTZUSDT",
+  "ZECUSDT"
+ ],
+ "pares": {
+  "1000SATSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 35,
+   "meses_novos": 35,
+   "primeira_vela": "2023-12-12T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "1MBABYDOGEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 26,
+   "meses_novos": 26,
+   "primeira_vela": "2024-09-16T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "AAVEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 73,
+   "meses_novos": 73,
+   "primeira_vela": "2020-10-15T03:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ACEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 35,
+   "meses_novos": 35,
+   "primeira_vela": "2023-12-18T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ACHUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 58,
+   "meses_novos": 58,
+   "primeira_vela": "2022-01-10T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ACTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 24,
+   "meses_novos": 24,
+   "primeira_vela": "2024-11-11T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ADAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 103,
+   "meses_novos": 103,
+   "primeira_vela": "2018-04-17T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "AGIXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 18,
+   "meses_novos": 18,
+   "primeira_vela": "2023-02-17T08:00Z",
+   "ultima_vela": "2024-07-01T02:00Z"
+  },
+  "AKROUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 50,
+   "meses_novos": 50,
+   "primeira_vela": "2020-11-02T07:00Z",
+   "ultima_vela": "2024-12-25T02:00Z"
+  },
+  "ALGOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 89,
+   "meses_novos": 89,
+   "primeira_vela": "2019-06-22T00:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ALICEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 68,
+   "meses_novos": 68,
+   "primeira_vela": "2021-03-15T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ALLOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 12,
+   "meses_novos": 12,
+   "primeira_vela": "2025-11-11T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ALPACAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 46,
+   "meses_novos": 46,
+   "primeira_vela": "2021-08-11T08:00Z",
+   "ultima_vela": "2025-05-02T02:00Z"
+  },
+  "ALPHAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 58,
+   "meses_novos": 58,
+   "primeira_vela": "2020-10-10T05:00Z",
+   "ultima_vela": "2025-07-04T02:00Z"
+  },
+  "ANCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 12,
+   "meses_novos": 12,
+   "primeira_vela": "2022-01-25T11:00Z",
+   "ultima_vela": "2022-12-27T02:00Z"
+  },
+  "ANKRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 88,
+   "meses_novos": 88,
+   "primeira_vela": "2019-07-23T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "APEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 56,
+   "meses_novos": 56,
+   "primeira_vela": "2022-03-17T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "APTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 49,
+   "meses_novos": 49,
+   "primeira_vela": "2022-10-19T01:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ARBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 44,
+   "meses_novos": 44,
+   "primeira_vela": "2023-03-23T15:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ARPAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 84,
+   "meses_novos": 84,
+   "primeira_vela": "2019-11-06T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ARUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2021-05-14T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ASTERUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 13,
+   "meses_novos": 13,
+   "primeira_vela": "2025-10-06T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ATOMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 91,
+   "meses_novos": 91,
+   "primeira_vela": "2019-04-29T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "AUCTIONUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 61,
+   "meses_novos": 61,
+   "primeira_vela": "2021-10-29T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "AVAXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-22T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "AVNTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 14,
+   "meses_novos": 14,
+   "primeira_vela": "2025-09-15T05:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "AXSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 72,
+   "meses_novos": 72,
+   "primeira_vela": "2020-11-04T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BAKEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 54,
+   "meses_novos": 54,
+   "primeira_vela": "2021-04-30T12:00Z",
+   "ultima_vela": "2025-09-17T02:00Z"
+  },
+  "BANANAS31USDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 20,
+   "meses_novos": 20,
+   "primeira_vela": "2025-03-27T21:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BANDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 86,
+   "meses_novos": 86,
+   "primeira_vela": "2019-09-18T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BANKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 12,
+   "meses_novos": 12,
+   "primeira_vela": "2025-11-13T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BARDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 14,
+   "meses_novos": 14,
+   "primeira_vela": "2025-09-18T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BATUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 92,
+   "meses_novos": 92,
+   "primeira_vela": "2019-03-04T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BCCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 11,
+   "meses_novos": 11,
+   "primeira_vela": "2018-01-01T00:00Z",
+   "ultima_vela": "2018-11-20T02:00Z"
+  },
+  "BCHABCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 13,
+   "meses_novos": 13,
+   "primeira_vela": "2018-11-16T08:00Z",
+   "ultima_vela": "2019-11-28T01:00Z"
+  },
+  "BCHSVUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 6,
+   "meses_novos": 6,
+   "primeira_vela": "2018-11-16T08:00Z",
+   "ultima_vela": "2019-04-22T09:00Z"
+  },
+  "BCHUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 84,
+   "meses_novos": 84,
+   "primeira_vela": "2019-11-28T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BELUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-15T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BERAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 21,
+   "meses_novos": 21,
+   "primeira_vela": "2025-02-06T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BIOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 22,
+   "meses_novos": 22,
+   "primeira_vela": "2025-01-03T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BLZUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 53,
+   "meses_novos": 53,
+   "primeira_vela": "2020-08-11T06:00Z",
+   "ultima_vela": "2024-12-25T02:00Z"
+  },
+  "BMTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 20,
+   "meses_novos": 20,
+   "primeira_vela": "2025-03-18T15:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BNBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 106,
+   "meses_novos": 106,
+   "primeira_vela": "2018-01-01T00:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BNTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 81,
+   "meses_novos": 81,
+   "primeira_vela": "2020-02-06T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BNXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 41,
+   "meses_novos": 41,
+   "primeira_vela": "2021-11-04T11:00Z",
+   "ultima_vela": "2025-03-18T02:00Z"
+  },
+  "BOMEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 32,
+   "meses_novos": 32,
+   "primeira_vela": "2024-03-16T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BONDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 37,
+   "meses_novos": 37,
+   "primeira_vela": "2021-07-05T06:00Z",
+   "ultima_vela": "2024-07-22T02:00Z"
+  },
+  "BONKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 35,
+   "meses_novos": 35,
+   "primeira_vela": "2023-12-15T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BTCSTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 23,
+   "meses_novos": 23,
+   "primeira_vela": "2021-01-13T06:00Z",
+   "ultima_vela": "2022-11-28T02:00Z"
+  },
+  "BTCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 106,
+   "meses_novos": 106,
+   "primeira_vela": "2018-01-01T00:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "BTTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 37,
+   "meses_novos": 37,
+   "primeira_vela": "2019-01-31T10:00Z",
+   "ultima_vela": "2022-01-17T03:00Z"
+  },
+  "BURGERUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 48,
+   "meses_novos": 48,
+   "primeira_vela": "2021-04-30T12:00Z",
+   "ultima_vela": "2025-03-28T02:00Z"
+  },
+  "CAKEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 69,
+   "meses_novos": 69,
+   "primeira_vela": "2021-02-19T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CELOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 70,
+   "meses_novos": 70,
+   "primeira_vela": "2021-01-05T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CELRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 92,
+   "meses_novos": 92,
+   "primeira_vela": "2019-03-25T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CFXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 68,
+   "meses_novos": 68,
+   "primeira_vela": "2021-03-29T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CHRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 78,
+   "meses_novos": 78,
+   "primeira_vela": "2020-05-07T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CHZUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 86,
+   "meses_novos": 86,
+   "primeira_vela": "2019-09-06T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CKBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 70,
+   "meses_novos": 70,
+   "primeira_vela": "2021-01-26T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "COMPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 77,
+   "meses_novos": 77,
+   "primeira_vela": "2020-06-25T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CRVUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-15T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "CTXCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2019-11-22T14:00Z",
+   "ultima_vela": "2025-04-16T02:00Z"
+  },
+  "CVCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 83,
+   "meses_novos": 83,
+   "primeira_vela": "2019-08-27T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "DARUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 39,
+   "meses_novos": 39,
+   "primeira_vela": "2021-11-04T08:00Z",
+   "ultima_vela": "2025-01-06T02:00Z"
+  },
+  "DASHUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 92,
+   "meses_novos": 92,
+   "primeira_vela": "2019-03-28T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "DATAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 71,
+   "meses_novos": 71,
+   "primeira_vela": "2020-04-07T13:00Z",
+   "ultima_vela": "2026-02-13T02:00Z"
+  },
+  "DENTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 81,
+   "meses_novos": 81,
+   "primeira_vela": "2019-08-27T04:00Z",
+   "ultima_vela": "2026-04-28T02:00Z"
+  },
+  "DEXEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 64,
+   "meses_novos": 64,
+   "primeira_vela": "2021-07-23T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "DOGEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 88,
+   "meses_novos": 88,
+   "primeira_vela": "2019-07-05T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "DOTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-18T23:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "DYDXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 62,
+   "meses_novos": 62,
+   "primeira_vela": "2021-09-09T02:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "EGLDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-03T03:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "EIGENUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 25,
+   "meses_novos": 25,
+   "primeira_vela": "2024-10-01T05:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ENAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 31,
+   "meses_novos": 31,
+   "primeira_vela": "2024-04-02T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ENJUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 91,
+   "meses_novos": 91,
+   "primeira_vela": "2019-04-18T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ENSOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 13,
+   "meses_novos": 13,
+   "primeira_vela": "2025-10-14T09:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ENSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 60,
+   "meses_novos": 60,
+   "primeira_vela": "2021-11-10T07:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "EOSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 85,
+   "meses_novos": 85,
+   "primeira_vela": "2018-05-28T05:00Z",
+   "ultima_vela": "2025-05-26T02:00Z"
+  },
+  "ERDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 14,
+   "meses_novos": 14,
+   "primeira_vela": "2019-07-04T08:00Z",
+   "ultima_vela": "2020-08-31T02:00Z"
+  },
+  "ETCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 101,
+   "meses_novos": 101,
+   "primeira_vela": "2018-06-12T02:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ETHFIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 32,
+   "meses_novos": 32,
+   "primeira_vela": "2024-03-18T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ETHUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 106,
+   "meses_novos": 106,
+   "primeira_vela": "2018-01-01T00:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "FETUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 93,
+   "meses_novos": 93,
+   "primeira_vela": "2019-02-28T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "FILUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 73,
+   "meses_novos": 73,
+   "primeira_vela": "2020-10-15T17:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "FLMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 63,
+   "meses_novos": 63,
+   "primeira_vela": "2020-09-28T07:00Z",
+   "ultima_vela": "2025-11-12T02:00Z"
+  },
+  "FLOKIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 42,
+   "meses_novos": 42,
+   "primeira_vela": "2023-05-05T18:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "FLOWUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 64,
+   "meses_novos": 64,
+   "primeira_vela": "2021-07-30T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "FORMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 20,
+   "meses_novos": 20,
+   "primeira_vela": "2025-03-19T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "FRONTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 35,
+   "meses_novos": 35,
+   "primeira_vela": "2021-10-04T10:00Z",
+   "ultima_vela": "2024-08-27T02:00Z"
+  },
+  "FTMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 68,
+   "meses_novos": 68,
+   "primeira_vela": "2019-06-11T04:00Z",
+   "ultima_vela": "2025-01-13T02:00Z"
+  },
+  "FTTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2019-12-20T03:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "GALAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 62,
+   "meses_novos": 62,
+   "primeira_vela": "2021-09-13T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "GASUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 44,
+   "meses_novos": 44,
+   "primeira_vela": "2023-03-17T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "GIGGLEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 13,
+   "meses_novos": 13,
+   "primeira_vela": "2025-10-25T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "GLMRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 58,
+   "meses_novos": 58,
+   "primeira_vela": "2022-01-11T16:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "GMTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 56,
+   "meses_novos": 56,
+   "primeira_vela": "2022-03-09T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "GRTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 71,
+   "meses_novos": 71,
+   "primeira_vela": "2020-12-17T20:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "GXSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 24,
+   "meses_novos": 24,
+   "primeira_vela": "2020-05-13T14:00Z",
+   "ultima_vela": "2022-04-25T03:00Z"
+  },
+  "HBARUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 86,
+   "meses_novos": 86,
+   "primeira_vela": "2019-09-29T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "HIFIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 33,
+   "meses_novos": 33,
+   "primeira_vela": "2023-01-12T08:00Z",
+   "ultima_vela": "2025-09-17T02:00Z"
+  },
+  "HIGHUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 55,
+   "meses_novos": 55,
+   "primeira_vela": "2021-12-17T07:00Z",
+   "ultima_vela": "2026-06-19T02:00Z"
+  },
+  "HOMEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 17,
+   "meses_novos": 17,
+   "primeira_vela": "2025-06-12T15:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "HOOKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 41,
+   "meses_novos": 41,
+   "primeira_vela": "2022-12-01T14:00Z",
+   "ultima_vela": "2026-04-01T02:00Z"
+  },
+  "HOTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 93,
+   "meses_novos": 93,
+   "primeira_vela": "2019-02-18T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ICPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2021-05-11T01:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ICXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 100,
+   "meses_novos": 100,
+   "primeira_vela": "2018-06-13T08:00Z",
+   "ultima_vela": "2026-09-03T02:00Z"
+  },
+  "IDEXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 56,
+   "meses_novos": 56,
+   "primeira_vela": "2021-09-09T08:00Z",
+   "ultima_vela": "2026-04-01T02:00Z"
+  },
+  "INJUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 73,
+   "meses_novos": 73,
+   "primeira_vela": "2020-10-21T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "IOSTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 92,
+   "meses_novos": 92,
+   "primeira_vela": "2019-03-22T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "IOTAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 102,
+   "meses_novos": 102,
+   "primeira_vela": "2018-05-31T09:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "IOTXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 84,
+   "meses_novos": 84,
+   "primeira_vela": "2019-11-14T03:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "JASMYUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 60,
+   "meses_novos": 60,
+   "primeira_vela": "2021-11-22T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "JTOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 35,
+   "meses_novos": 35,
+   "primeira_vela": "2023-12-07T16:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "JUPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 34,
+   "meses_novos": 34,
+   "primeira_vela": "2024-01-31T16:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "KAVAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 85,
+   "meses_novos": 85,
+   "primeira_vela": "2019-10-25T02:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "KITEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 12,
+   "meses_novos": 12,
+   "primeira_vela": "2025-11-03T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "KLAYUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 41,
+   "meses_novos": 41,
+   "primeira_vela": "2021-06-24T08:00Z",
+   "ultima_vela": "2024-10-28T02:00Z"
+  },
+  "KSMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-04T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "LAYERUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 21,
+   "meses_novos": 21,
+   "primeira_vela": "2025-02-11T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "LDOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 54,
+   "meses_novos": 54,
+   "primeira_vela": "2022-05-09T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "LENDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 6,
+   "meses_novos": 6,
+   "primeira_vela": "2020-05-15T08:00Z",
+   "ultima_vela": "2020-10-12T02:00Z"
+  },
+  "LEVERUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 37,
+   "meses_novos": 37,
+   "primeira_vela": "2022-07-13T04:00Z",
+   "ultima_vela": "2025-07-04T02:00Z"
+  },
+  "LINAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 49,
+   "meses_novos": 49,
+   "primeira_vela": "2021-03-18T12:00Z",
+   "ultima_vela": "2025-03-28T02:00Z"
+  },
+  "LINKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 94,
+   "meses_novos": 94,
+   "primeira_vela": "2019-01-16T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "LOOMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 18,
+   "meses_novos": 18,
+   "primeira_vela": "2023-03-24T08:00Z",
+   "ultima_vela": "2024-08-26T02:00Z"
+  },
+  "LPTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2021-05-28T05:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "LRCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 71,
+   "meses_novos": 71,
+   "primeira_vela": "2020-06-12T08:00Z",
+   "ultima_vela": "2026-04-01T02:00Z"
+  },
+  "LTCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 106,
+   "meses_novos": 106,
+   "primeira_vela": "2018-01-01T00:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "LUNAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-21T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "LUNCUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 50,
+   "meses_novos": 50,
+   "primeira_vela": "2022-09-09T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MAGICUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 47,
+   "meses_novos": 47,
+   "primeira_vela": "2022-12-12T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MANAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-06T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MASKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2021-05-25T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MATICUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2019-04-26T15:00Z",
+   "ultima_vela": "2024-09-10T02:00Z"
+  },
+  "MBLUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 81,
+   "meses_novos": 81,
+   "primeira_vela": "2020-02-21T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MBOXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 59,
+   "meses_novos": 59,
+   "primeira_vela": "2021-08-19T08:00Z",
+   "ultima_vela": "2026-06-19T02:00Z"
+  },
+  "MDXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 39,
+   "meses_novos": 39,
+   "primeira_vela": "2021-05-24T09:00Z",
+   "ultima_vela": "2024-07-22T02:00Z"
+  },
+  "MINAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 63,
+   "meses_novos": 63,
+   "primeira_vela": "2021-08-10T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MKRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 63,
+   "meses_novos": 63,
+   "primeira_vela": "2020-07-23T14:00Z",
+   "ultima_vela": "2025-09-15T02:00Z"
+  },
+  "MMTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 12,
+   "meses_novos": 12,
+   "primeira_vela": "2025-11-04T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MOVRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 60,
+   "meses_novos": 60,
+   "primeira_vela": "2021-11-08T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MTLUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 87,
+   "meses_novos": 87,
+   "primeira_vela": "2019-08-23T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "MULTIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 23,
+   "meses_novos": 23,
+   "primeira_vela": "2022-04-06T04:00Z",
+   "ultima_vela": "2024-02-20T02:00Z"
+  },
+  "NANOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 34,
+   "meses_novos": 34,
+   "primeira_vela": "2019-04-03T04:00Z",
+   "ultima_vela": "2022-01-24T03:00Z"
+  },
+  "NEARUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 73,
+   "meses_novos": 73,
+   "primeira_vela": "2020-10-14T05:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "NEIROUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 26,
+   "meses_novos": 26,
+   "primeira_vela": "2024-09-16T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "NEOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 106,
+   "meses_novos": 106,
+   "primeira_vela": "2018-01-01T00:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "NIGHTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 8,
+   "meses_novos": 8,
+   "primeira_vela": "2026-03-11T15:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "NMRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-19T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "NOTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 30,
+   "meses_novos": 30,
+   "primeira_vela": "2024-05-16T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "NPXSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 21,
+   "meses_novos": 21,
+   "primeira_vela": "2019-08-13T11:00Z",
+   "ultima_vela": "2021-04-05T04:00Z"
+  },
+  "NULSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 82,
+   "meses_novos": 82,
+   "primeira_vela": "2018-07-23T04:00Z",
+   "ultima_vela": "2025-04-16T02:00Z"
+  },
+  "OGNUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 82,
+   "meses_novos": 82,
+   "primeira_vela": "2020-01-09T03:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "OGUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 71,
+   "meses_novos": 71,
+   "primeira_vela": "2020-12-30T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "OMGUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 63,
+   "meses_novos": 63,
+   "primeira_vela": "2019-04-03T04:00Z",
+   "ultima_vela": "2024-06-17T02:00Z"
+  },
+  "OMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 61,
+   "meses_novos": 61,
+   "primeira_vela": "2021-03-08T09:00Z",
+   "ultima_vela": "2026-03-02T02:00Z"
+  },
+  "ONDOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 19,
+   "meses_novos": 19,
+   "primeira_vela": "2025-04-11T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ONEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 89,
+   "meses_novos": 89,
+   "primeira_vela": "2019-06-01T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ONGUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 93,
+   "meses_novos": 93,
+   "primeira_vela": "2019-02-16T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ONTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 101,
+   "meses_novos": 101,
+   "primeira_vela": "2018-06-08T07:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "OPNUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 8,
+   "meses_novos": 8,
+   "primeira_vela": "2026-03-05T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "OPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 53,
+   "meses_novos": 53,
+   "primeira_vela": "2022-06-01T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ORDIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 36,
+   "meses_novos": 36,
+   "primeira_vela": "2023-11-07T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PENDLEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 40,
+   "meses_novos": 40,
+   "primeira_vela": "2023-07-03T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PENGUUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 23,
+   "meses_novos": 23,
+   "primeira_vela": "2024-12-17T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PEOPLEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 59,
+   "meses_novos": 59,
+   "primeira_vela": "2021-12-23T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PEPEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 42,
+   "meses_novos": 42,
+   "primeira_vela": "2023-05-05T18:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PERPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 57,
+   "meses_novos": 57,
+   "primeira_vela": "2021-03-19T08:00Z",
+   "ultima_vela": "2025-11-12T02:00Z"
+  },
+  "PHAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 65,
+   "meses_novos": 65,
+   "primeira_vela": "2021-06-25T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PNUTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 24,
+   "meses_novos": 24,
+   "primeira_vela": "2024-11-11T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "POLUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 26,
+   "meses_novos": 26,
+   "primeira_vela": "2024-09-13T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "POLYXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 49,
+   "meses_novos": 49,
+   "primeira_vela": "2022-10-17T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PUMPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 14,
+   "meses_novos": 14,
+   "primeira_vela": "2025-09-11T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "PYTHUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 33,
+   "meses_novos": 33,
+   "primeira_vela": "2024-02-02T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "QNTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 64,
+   "meses_novos": 64,
+   "primeira_vela": "2021-07-29T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "QTUMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 104,
+   "meses_novos": 104,
+   "primeira_vela": "2018-03-19T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "RADUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 61,
+   "meses_novos": 61,
+   "primeira_vela": "2021-10-07T07:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "RAREUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 61,
+   "meses_novos": 61,
+   "primeira_vela": "2021-10-11T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "REEFUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 45,
+   "meses_novos": 45,
+   "primeira_vela": "2020-12-29T06:00Z",
+   "ultima_vela": "2024-08-26T02:00Z"
+  },
+  "RENUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 64,
+   "meses_novos": 64,
+   "primeira_vela": "2019-09-25T12:00Z",
+   "ultima_vela": "2024-12-10T02:00Z"
+  },
+  "RLUSDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 10,
+   "meses_novos": 10,
+   "primeira_vela": "2026-01-22T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "RNDRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 33,
+   "meses_novos": 33,
+   "primeira_vela": "2021-11-27T10:00Z",
+   "ultima_vela": "2024-07-22T02:00Z"
+  },
+  "ROSEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 72,
+   "meses_novos": 72,
+   "primeira_vela": "2020-11-19T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "RSRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-27T07:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "RUNEUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-04T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "RVNUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 86,
+   "meses_novos": 86,
+   "primeira_vela": "2019-09-25T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SAGAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 31,
+   "meses_novos": 31,
+   "primeira_vela": "2024-04-09T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SANDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-14T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SANTOSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 59,
+   "meses_novos": 59,
+   "primeira_vela": "2021-12-01T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SEIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 39,
+   "meses_novos": 39,
+   "primeira_vela": "2023-08-15T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SENTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 10,
+   "meses_novos": 10,
+   "primeira_vela": "2026-01-22T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SHIBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2021-05-10T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SLPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 67,
+   "meses_novos": 67,
+   "primeira_vela": "2021-04-30T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SNDKBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 5,
+   "meses_novos": 5,
+   "primeira_vela": "2026-06-11T18:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SNXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 76,
+   "meses_novos": 76,
+   "primeira_vela": "2020-07-09T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SOLUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-11T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SOXLBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 4,
+   "meses_novos": 4,
+   "primeira_vela": "2026-07-07T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SPCXBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 5,
+   "meses_novos": 5,
+   "primeira_vela": "2026-06-12T17:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SPKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 17,
+   "meses_novos": 17,
+   "primeira_vela": "2025-06-17T09:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SRMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 28,
+   "meses_novos": 28,
+   "primeira_vela": "2020-08-11T13:00Z",
+   "ultima_vela": "2022-11-28T02:00Z"
+  },
+  "STMXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 57,
+   "meses_novos": 57,
+   "primeira_vela": "2020-06-11T03:00Z",
+   "ultima_vela": "2025-02-24T02:00Z"
+  },
+  "STORJUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-07-30T05:00Z",
+   "ultima_vela": "2026-09-03T02:00Z"
+  },
+  "STOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 18,
+   "meses_novos": 18,
+   "primeira_vela": "2025-05-02T16:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "STRAXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 72,
+   "meses_novos": 72,
+   "primeira_vela": "2020-11-18T03:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "STRKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 33,
+   "meses_novos": 33,
+   "primeira_vela": "2024-02-20T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "STXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 85,
+   "meses_novos": 85,
+   "primeira_vela": "2019-10-25T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SUIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 42,
+   "meses_novos": 42,
+   "primeira_vela": "2023-05-03T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SUNUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-21T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 22,
+   "meses_novos": 22,
+   "primeira_vela": "2025-01-16T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SUSHIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-01T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "SXPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 70,
+   "meses_novos": 70,
+   "primeira_vela": "2020-07-20T12:00Z",
+   "ultima_vela": "2026-04-01T02:00Z"
+  },
+  "TAOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 31,
+   "meses_novos": 31,
+   "primeira_vela": "2024-04-11T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TFUELUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 90,
+   "meses_novos": 90,
+   "primeira_vela": "2019-05-24T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "THETAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 91,
+   "meses_novos": 91,
+   "primeira_vela": "2019-04-10T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TIAUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 37,
+   "meses_novos": 37,
+   "primeira_vela": "2023-10-31T16:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TLMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 67,
+   "meses_novos": 67,
+   "primeira_vela": "2021-04-13T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TNSRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 31,
+   "meses_novos": 31,
+   "primeira_vela": "2024-04-08T15:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TOMOUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 52,
+   "meses_novos": 52,
+   "primeira_vela": "2019-08-24T13:00Z",
+   "ultima_vela": "2023-11-20T02:00Z"
+  },
+  "TONUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 23,
+   "meses_novos": 23,
+   "primeira_vela": "2024-08-08T10:00Z",
+   "ultima_vela": "2026-06-30T02:00Z"
+  },
+  "TRBUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-29T07:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TRUMPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 22,
+   "meses_novos": 22,
+   "primeira_vela": "2025-01-19T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TRUUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 64,
+   "meses_novos": 64,
+   "primeira_vela": "2021-01-19T07:00Z",
+   "ultima_vela": "2026-04-28T02:00Z"
+  },
+  "TRXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 101,
+   "meses_novos": 101,
+   "primeira_vela": "2018-06-11T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TUTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 20,
+   "meses_novos": 20,
+   "primeira_vela": "2025-03-27T21:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "TWTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 70,
+   "meses_novos": 70,
+   "primeira_vela": "2021-01-27T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "UNFIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 49,
+   "meses_novos": 49,
+   "primeira_vela": "2020-11-19T06:00Z",
+   "ultima_vela": "2024-11-06T02:00Z"
+  },
+  "UNIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 74,
+   "meses_novos": 74,
+   "primeira_vela": "2020-09-17T03:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "USDSOLDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 17,
+   "meses_novos": 17,
+   "primeira_vela": "2019-02-14T10:00Z",
+   "ultima_vela": "2020-06-24T06:00Z"
+  },
+  "UUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 10,
+   "meses_novos": 10,
+   "primeira_vela": "2026-01-13T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "VETUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 100,
+   "meses_novos": 100,
+   "primeira_vela": "2018-07-25T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "VGXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 34,
+   "meses_novos": 34,
+   "primeira_vela": "2021-11-22T07:00Z",
+   "ultima_vela": "2024-08-26T02:00Z"
+  },
+  "VIRTUALUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 19,
+   "meses_novos": 19,
+   "primeira_vela": "2025-04-11T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "WAVESUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 66,
+   "meses_novos": 66,
+   "primeira_vela": "2019-01-18T10:00Z",
+   "ultima_vela": "2024-06-17T02:00Z"
+  },
+  "WIFUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 32,
+   "meses_novos": 32,
+   "primeira_vela": "2024-03-05T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "WINGUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 57,
+   "meses_novos": 57,
+   "primeira_vela": "2020-09-16T02:00Z",
+   "ultima_vela": "2025-05-02T02:00Z"
+  },
+  "WINUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 87,
+   "meses_novos": 87,
+   "primeira_vela": "2019-08-01T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "WLDUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 40,
+   "meses_novos": 40,
+   "primeira_vela": "2023-07-24T09:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "WLFIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 14,
+   "meses_novos": 14,
+   "primeira_vela": "2025-09-01T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "WRXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 59,
+   "meses_novos": 59,
+   "primeira_vela": "2020-02-05T02:00Z",
+   "ultima_vela": "2024-12-25T02:00Z"
+  },
+  "XAUTUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 8,
+   "meses_novos": 8,
+   "primeira_vela": "2026-03-26T14:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "XEMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 44,
+   "meses_novos": 44,
+   "primeira_vela": "2020-11-24T13:00Z",
+   "ultima_vela": "2024-06-17T02:00Z"
+  },
+  "XLMUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 102,
+   "meses_novos": 102,
+   "primeira_vela": "2018-05-31T09:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "XMRUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 60,
+   "meses_novos": 60,
+   "primeira_vela": "2019-03-15T04:00Z",
+   "ultima_vela": "2024-02-20T02:00Z"
+  },
+  "XPLUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 14,
+   "meses_novos": 14,
+   "primeira_vela": "2025-09-25T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "XRPUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 102,
+   "meses_novos": 102,
+   "primeira_vela": "2018-05-04T08:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "XTZUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 86,
+   "meses_novos": 86,
+   "primeira_vela": "2019-09-24T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "XVGUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 65,
+   "meses_novos": 65,
+   "primeira_vela": "2021-06-06T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "XVSUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 73,
+   "meses_novos": 73,
+   "primeira_vela": "2020-10-06T05:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "YFIIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 36,
+   "meses_novos": 36,
+   "primeira_vela": "2020-09-01T11:00Z",
+   "ultima_vela": "2023-08-22T02:00Z"
+  },
+  "YFIUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 75,
+   "meses_novos": 75,
+   "primeira_vela": "2020-08-10T12:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "YGGUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 62,
+   "meses_novos": 62,
+   "primeira_vela": "2021-09-24T06:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ZECUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 92,
+   "meses_novos": 92,
+   "primeira_vela": "2019-03-21T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ZENUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 76,
+   "meses_novos": 76,
+   "primeira_vela": "2020-07-06T05:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ZILUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 93,
+   "meses_novos": 93,
+   "primeira_vela": "2019-02-19T11:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ZKUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 29,
+   "meses_novos": 29,
+   "primeira_vela": "2024-06-17T10:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ZROUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 29,
+   "meses_novos": 29,
+   "primeira_vela": "2024-06-20T13:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  },
+  "ZRXUSDT": {
+   "status": "ok",
+   "origem": "api",
+   "meses": 93,
+   "meses_novos": 93,
+   "primeira_vela": "2019-02-28T04:00Z",
+   "ultima_vela": "2026-10-31T23:00Z"
+  }
+ }
+}
