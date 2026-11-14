@@ -1,0 +1,38 @@
+name: Dados
+
+# Baixa velas publicas de 1h da Binance e grava neste repositorio.
+# So dados publicos de mercado: sem conta, sem chave e sem ordens.
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - pares.txt
+      - baixar.py
+  schedule:
+    - cron: "40 3 2 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dados
+  cancel-in-progress: false
+
+jobs:
+  dados:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v6
+      - name: Baixar as velas publicas
+        timeout-minutes: 120
+        run: python3 baixar.py
+      - name: Gravar no repositorio
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -q -m "Atualiza as velas publicas"
+          git push
